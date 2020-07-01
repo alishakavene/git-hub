@@ -4,6 +4,8 @@ Alisha Kavene
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
 
+# Description
+This is an app that helps a user to generate a search for their git hub repository. When a user searches for their github page they will find it and be able to view it
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
