@@ -1,0 +1,11 @@
+.navbar-item li{
+  margin: 20px;
+ padding: 10px;
+ display: inline;
+ text-align: center;
+
+}
+.gitcard{
+  margin: 100px;
+  padding: 50px;
+}
