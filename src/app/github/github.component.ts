@@ -16,7 +16,7 @@ export class GithubComponent implements OnInit {
     )
 
   }
-//searchUser(){this.GitHubservice.findUser(this.username)}
+///searchUser(){this.GitHubservice.findUser(this.username)}
   ngOnInit(): void {
   }
 
